@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <person>
+    <id_person>7</id_person>
+    <name>Денис</name>
+    <position>Аналітик</position>
+    <code>47</code>
+  </person>
+  <person>
+    <id_person>8</id_person>
+    <name>Катерина</name>
+    <position>Дизайнер</position>
+    <code>25</code>
+  </person>
+</NewDataSet>

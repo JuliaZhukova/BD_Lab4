@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <client>
+    <ID>1</ID>
+    <Name>Максим</Name>
+    <Age>27</Age>
+    <Phone>+380982328654</Phone>
+  </client>
+  <client>
+    <ID>2</ID>
+    <Name>Софія</Name>
+    <Age>45</Age>
+    <Phone>+380684290517</Phone>
+  </client>
+  <client>
+    <ID>3</ID>
+    <Name>Артем</Name>
+    <Age>25</Age>
+    <Phone>+380964175896</Phone>
+  </client>
+  <client>
+    <ID>4</ID>
+    <Name>Вікторія</Name>
+    <Age>26</Age>
+    <Phone>+380979797573</Phone>
+  </client>
+</NewDataSet>
